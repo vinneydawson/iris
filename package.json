@@ -61,7 +61,7 @@
     "isbot": "^4.1.0",
     "jsonwebtoken": "8.5.1",
     "jsonwebtoken-esm": "1.0.5",
-    "morgan": "^1.10.0",
+    "morgan": "^1.12.1",
     "node-mailjet": "^6.0.6",
     "nodemailer": "^6.9.15",
     "openai": "^4.63.0",
